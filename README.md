@@ -1,3 +1,5 @@
+![CI](https://github.com/Emylly0710/CI0022/workflows/CI/badge.svg?branch=master)
+
 # Projeto Github Actions
 
 Esse projeto em o objetivo de ensinar Contínuos Integration paara a turma de Engenharia de Softwarer II da Unijuazeiro.
