@@ -5,15 +5,12 @@
 Esse projeto em o objetivo de ensinar Contínuos Integration paara a turma de Engenharia de Softwarer II da Unijuazeiro.
 
 ## Tarefas a serem implementadas no CI
-- [x] fazer o checkout do projeto no CI
-- [x] fazer configuração do ambiente (versão do nove e instalação das dependenciais)
-- [x] executar os testes
-- [x] quando enviado para o master, fazer o build do projeto
-- [x] disponibilizar relatório de cobertura de testes e build ao fim do workflow
-- [x] quando enviado para o master, fazer implantação do projeto no [link]:(http://ci0022-sabrinaemylly.surge.sh)
-
-
-
+- [x] Fazer o checkout do projeto no CI
+- [x] Fazer configuração do ambiente (versão do nove e instalação das dependenciais)
+- [x] Executar os testes
+- [x] Quando enviado para o master, fazer o build do projeto
+- [x] Disponibilizar relatório de cobertura de testes e build ao fim do workflow
+- [x] Quando enviado para o master, fazer implantação do projeto no [link](http://ci0022-sabrinaemylly.surge.sh/)
 
 ## Scripts Disponiveis
 
