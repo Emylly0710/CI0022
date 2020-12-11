@@ -4,6 +4,16 @@
 
 Esse projeto em o objetivo de ensinar Contínuos Integration paara a turma de Engenharia de Softwarer II da Unijuazeiro.
 
+## Tarefas a serem implementadas no CI
+- [x] fazer o checkout do projeto no CI
+- [x] fazer configuração do ambiente (versão do nove e instalação das dependenciais)
+- [x] executar os testes
+- [x] quando enviado para o master, fazer o build do projeto
+- [ ] disponibilizar relatório de cobertura de testes e build ao fim do workflow
+- [ ] quando enviado para o master, fazer implantação do projeto
+
+
+
 ## Scripts Disponiveis
 
 Na raiz do projeto você poderá executar: 
