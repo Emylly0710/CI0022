@@ -9,8 +9,8 @@ Esse projeto em o objetivo de ensinar Contínuos Integration paara a turma de En
 - [x] fazer configuração do ambiente (versão do nove e instalação das dependenciais)
 - [x] executar os testes
 - [x] quando enviado para o master, fazer o build do projeto
-- [ ] disponibilizar relatório de cobertura de testes e build ao fim do workflow
-- [ ] quando enviado para o master, fazer implantação do projeto no [link]:(http://ci0022-sabrinaemylly.surge.sh)
+- [x] disponibilizar relatório de cobertura de testes e build ao fim do workflow
+- [x] quando enviado para o master, fazer implantação do projeto no [link]:(http://ci0022-sabrinaemylly.surge.sh)
 
 
 
